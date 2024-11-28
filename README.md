@@ -5,9 +5,6 @@ This project was part of my internship application process for **AI4SEE PRIVATE 
 
 The challenge, although intimidating, turned out to be one of my most rewarding learning experiences, filled with moments of trial and error, small wins, and a steep learning curve. Below, I document the entire process, including the tools and strategies used, as well as insights gained.  
 
-You can access the generated dataset using the following link:  
-[Dataset Link](https://drive.google.com/file/d/1pRpOHhChlq1MU1bde_lS7b15mddLESZ1/view?usp=drive_link)
-
 ---
 
 ## Assignment Instructions  
@@ -113,3 +110,9 @@ For faster results on low-end PCs, reduce the parameter values in the code. This
 Thank you for taking the time to read about my project journey! If you have any questions or need further clarifications, feel free to reach out.  
 
 ---
+
+## And here are the results
+You can access the generated dataset using the following link:  
+[Dataset Link](https://drive.google.com/file/d/1pRpOHhChlq1MU1bde_lS7b15mddLESZ1/view?usp=drive_link)
+Image is also uploaded as Figure1 in files
+ her
