@@ -1,6 +1,3 @@
-Sure! Here's the complete text formatted for easy copy-pasting into your GitHub README file:
-
-```markdown
 # Create a Synthetic Multivariate Time Series Data of At Least 1 GB and Apply Anomaly Detection Algorithms  
 
 ## Introduction  
@@ -20,6 +17,31 @@ The assignment details, as provided, were as follows:
 > **Submission Deadline**: 30 November, 2024  
 > - Mehaboob  
 
+---
+
+## My Experience  
+
+When I started, I underestimated the challenge. The **initial dataset I generated was only 10 MB**, far from the 1 GB requirement. I adjusted parameters, experimented with different techniques, and gradually increased the dataset size:  
+
+1. **Step 1**: My first attempt resulted in **10 MB** of data, which felt discouraging but gave me a baseline.  
+2. **Step 2**: By tweaking the code and increasing iterations, I generated **128 MB**, a significant improvement but still not sufficient.  
+3. **Step 3**: After multiple iterations and experiments, I **finally crossed the 1 GB mark**, achieving **1.44 GB** of synthetic data!  
+
+This process tested my patience and problem-solving skills. It required creativity to balance performance, computation time, and data size.  
+
+### Technical Hurdles  
+
+- **Processing Time**: My system, powered by an **NVIDIA GeForce RTX 4050**, took around **40 minutes** to generate the full dataset.  
+  - On lower-end systems, this could take significantly longer (1+ hours).  
+- **Memory Management**: Handling such a large dataset required careful planning to avoid crashing my system.  
+- **Graph Generation**: Organizing and visualizing the results in a clear and meaningful way was crucial.  
+
+---
+
+## Requirements  
+
+Before running the code, ensure the following libraries are installed:  
+pip install wmi psutil panda
 ---
 
 ## My Experience  
