@@ -5,18 +5,15 @@ This project was part of my internship application process for **AI4SEE PRIVATE 
 
 The challenge, although intimidating, turned out to be one of my most rewarding learning experiences, filled with moments of trial and error, small wins, and a steep learning curve. Below, I document the entire process, including the tools and strategies used, as well as insights gained.  
 
+You can access the generated dataset using the following link:  
+[Dataset Link](https://drive.google.com/file/d/1pRpOHhChlq1MU1bde_lS7b15mddLESZ1/view?usp=drive_link)
+
 ---
 
 ## Assignment Instructions  
 The assignment details, as provided, were as follows:  
 
-> Thank you for your interest in our internship opening. As a next step, we are expecting you to complete a short assignment.  
->  
 > Create a synthetic multivariate time series data of at least 1 GB using the provided code. Apply any simple anomaly detection algorithm and display the results. Please share the dataset link.  
->  
-> **Submission Deadline**: 30 November, 2024  
-> - Mehaboob  
-
 ---
 
 ## My Experience  
